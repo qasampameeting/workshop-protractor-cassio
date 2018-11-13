@@ -1,37 +1,37 @@
-# protractor-style-guide
-Essa aplicação de Testes Automatizados servirá como Style Guide para testes e2e utilizando utilizando Protractor
+# Workshop Protractor
 
-### A arquitetura está configurada da seguinte forma
-```
-├── README.md
-├── e2e
-│   ├── cucumber-example
-│   │   ├── features
-│   │   │   ├── busca.pokemon.feature
-│   │   │   ├── step_definitions
-│   │   │   │   └── busca.pokemon.step.js
-│   │   │   └── support
-│   │   │       └── env.js
-│   │   └── protractor.conf.js
-│   ├── jasmine-example
-│   │   ├── protractor.conf.js
-│   │   └── specs
-│   │       └── pokenon.spec.js
-│   └── pages
-│       └── listagem.po.js
-└── package.json
+## Ministrador 
+[Cássio Alves - QA na Youse Seguros](https://www.linkedin.com/in/cassiocafs/)
+
+## Instruções para instalação das ferramentas básicas
+- [Instalar node](https://docs.google.com/document/d/1dSfc5XAEVeCxAXfkv3m-Xwtw7hJjE_h0rMyBh102-ZA/edit?usp=sharing)
+
+- [Instalar protractor](https://www.npmjs.com/package/protractor-console)
+
+```shell
+npm install -g protractor
 ```
 
-A aplicação que vamos testar é uma aplicação simples que pode ser acessada pela url <https://pokedex-angularjs.herokuapp.com/#!/list>
+- [Clonar repositório](https://github.com/cassioafs/protractor-guide-line)
 
-***IMPORTANTE***
+- Instalar as dependências: acessar a diretório do projeto e executar o comando:
 
-Apenas para fins de estudo, vamos utilizar duas formas de testarmos uma aplicação com Protractor. 
-Cada uma delas possui seu arquivo específico de configuração (Obs.: Em aplicações reais não é aconselhável a utilizando de mais de um arquivo de configuração).
+```shell
+npm install
+```
 
-A primeira forma é utilizando <em>Cucumber</em>. Na pasta [e2e/cucumber-example](https://github.com/cassioafs/protractor-style-guide/tree/master/e2e/cucumber-example)
-estão os testes utilizando cucumber integrado ao protractor.
+- [Instalar cucumber](https://drive.google.com/drive/folders/1mhO_aRHB40l-zUKN2-qYCa3wucrw5L7i?usp=sharing)
 
-A outra forma é utilizando <em>Jasmine</em>. Na pasta [e2e/jasmine-example](https://github.com/cassioafs/protractor-style-guide/tree/master/e2e/jasmine-example)
-estão os testes utilizando jasmine.
+- [Instalar docker](https://drive.google.com/drive/folders/1l_zwwmAoQScgmLrGp-Blp-3pIoKvT1Ey?usp=sharing)
 
+- [Baixar imagem zalenium](https://github.com/zalando/zalenium)
+
+## Saiba como foi o Workshop
+
+[Artigo medium "Rodando Protractor com Docker"](https://medium.com/@nathanael.araujos/rodando-protractor-com-docker-c4aabe2c9af4).
+- [Códigos utilizado](https://github.com/cassioafs/protractor-guide-line).
+- [Slides da apresentação](https://docs.google.com/presentation/d/1J4uLG7X3U6xWssM86JPKPnKOMQYKxZvA3fkGNCGN0G8/edit?usp=sharing).
+- [Fotos do workshop](https://photos.app.goo.gl/HWyKXG58HjV9dCpt6).
+- Vídeo do workshop
+- [Manhã](https://www.youtube.com/watch?v=3GkD5evqhIY)
+- [Tarde](https://www.youtube.com/watch?v=y8h49vxAGho)
