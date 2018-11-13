@@ -33,7 +33,7 @@ Artigo [Nathael Araújo](https://www.linkedin.com/in/nathanaelaraujo/):
 
 [Código utilizado](https://github.com/cassioafs/protractor-guide-line)
 
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/1Qb0b8nSY5_L3qcZvU8lb73m5kAeV2-4aV_HnbDrfBmg/edit?usp=sharing)
 
 [Fotos do workshop](https://photos.app.goo.gl/HWyKXG58HjV9dCpt6)
 
