@@ -28,7 +28,7 @@ npm install
 
 ## Saiba como foi o Workshop
 
-Artigo [Nathael Araújo](https://www.linkedin.com/in/nathanaelaraujo/): 
+Artigo [Nathanael Araújo](https://www.linkedin.com/in/nathanaelaraujo/): 
 - ["Rodando Protractor com Docker"](https://medium.com/@nathanael.araujos/rodando-protractor-com-docker-c4aabe2c9af4)
 
 [Código utilizado](https://github.com/cassioafs/protractor-guide-line)
