@@ -28,10 +28,15 @@ npm install
 
 ## Saiba como foi o Workshop
 
-[Artigo medium "Rodando Protractor com Docker"](https://medium.com/@nathanael.araujos/rodando-protractor-com-docker-c4aabe2c9af4).
-- [Códigos utilizado](https://github.com/cassioafs/protractor-guide-line).
-- [Slides da apresentação](https://docs.google.com/presentation/d/1J4uLG7X3U6xWssM86JPKPnKOMQYKxZvA3fkGNCGN0G8/edit?usp=sharing).
-- [Fotos do workshop](https://photos.app.goo.gl/HWyKXG58HjV9dCpt6).
-- Vídeo do workshop
+Artigo [Nathael Araújo](https://www.linkedin.com/in/nathanaelaraujo/): 
+- ["Rodando Protractor com Docker"](https://medium.com/@nathanael.araujos/rodando-protractor-com-docker-c4aabe2c9af4)
+
+[Código utilizado](https://github.com/cassioafs/protractor-guide-line)
+
+[Slides]()
+
+[Fotos do workshop](https://photos.app.goo.gl/HWyKXG58HjV9dCpt6)
+
+Vídeo do workshop
 - [Manhã](https://www.youtube.com/watch?v=3GkD5evqhIY)
 - [Tarde](https://www.youtube.com/watch?v=y8h49vxAGho)
